@@ -10,6 +10,7 @@
 - HTML & CSS
 - Node.js
 - Express.js
+- MongoDB
 
 ## Author
 
